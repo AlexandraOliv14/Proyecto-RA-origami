@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="qr-code_cangrejo" size="0.150000 0.150000" />
+    <ImageTarget name="qr-code_tortuga" size="0.150000 0.150000" />
+  </Tracking>
+</QCARConfig>
