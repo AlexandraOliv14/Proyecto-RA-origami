@@ -16,10 +16,10 @@ Además, ambas figuras cuentan con un botón independiente que, al ser presionad
 Aquí están los targets que se deben escanear en la aplicación para visualizar las figuras en realidad aumentada.
 
 ### Cangrejo
-![Target Cangrejo](./Photos/qr-code_cangrejo_scaled.jpg)
+<img alt='Target Cangrejo' src="./Photos/qr-code_cangrejo_scaled.jpg" width="200">
 
 ### Tortuga
-![Target Tortuga](./Photos/qr-code_tortuga_scaled.jpg)
+<img alt='Target Tortuga' src="./Photos/qr-code_tortuga_scaled.jpg" width="200">
 
 ## Descarga de la Aplicación
 
